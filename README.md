@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there! I'm Chris
 
-<!--
-**ChrisKw0n/chriskw0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently a **Software Engineering student** focused on creating efficient, impactful solutions. Currently working at RocketLab and am passionate about the web3/blockchain space.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Tech Stack:
+- **Frontend**: React.js, TypeScript
+- **Backend**: Java, Python, Solidity
+- **Blockchain**: Hardhat, Ganache
+- **Learning**: Rust 🦀
+
+---
+
+## 🤝 Let's Connect!
+I'm always up for collaboration on:
+- **Web3** and blockchain projects  
+- **Open-source** contributions  
+- **Data-driven applications**
