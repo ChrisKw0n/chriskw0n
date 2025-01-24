@@ -7,8 +7,7 @@ Currently a **Software Engineering student** focused on creating efficient, impa
 ## 🔧 Current Tech Stack:
 - **Frontend**: React.js, TypeScript
 - **Backend**: Java, Python, Solidity
-- **Blockchain**: Hardhat, Ganache
-- **Learning**: Rust 🦀
+- **Blockchain**: Hardhat/Foundry, Ganache
 
 ---
 
